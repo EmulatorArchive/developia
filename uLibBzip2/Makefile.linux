@@ -1,0 +1,31 @@
+
+
+TARGET	=	libbzip2.a
+
+
+CC =		gcc
+STRIP=		strip
+
+CFLAGS =	-Wall -Wno-switch -mtune=pentium -mcpu=pentium 		-ffast-math -fno-common -ffreestanding -fno-builtin -Iinclude/ -fno-exceptions -fstrict-aliasing -O6
+
+OBJS = \
+	blocksort.o \
+	bzlib.o \
+	compress.o \
+	crctable.o \
+	decompress.o \
+	huffman.o \
+	randtable.o
+
+all: $(TARGET)
+
+
+
+
+
+$(TARGET):	$(OBJS)
+	rm -f $(TARGET)
+	$(AR) cru $(TARGET) $(OBJS)
+
+clean:
+	rm -f $(OBJS) $(TARGET)

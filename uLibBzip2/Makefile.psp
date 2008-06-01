@@ -1,0 +1,24 @@
+PSPSDK=$(shell psp-config --pspsdk-path)
+PSPDIR=$(shell psp-config --psp-prefix)
+
+TARGET_LIB = libbzip2.a
+
+OBJS = \
+	blocksort.o \
+	bzlib.o \
+	compress.o \
+	crctable.o \
+	decompress.o \
+	huffman.o \
+	randtable.o
+
+CFLAGS = -O2 -G0
+
+include $(PSPSDK)/lib/build.mak
+
+install: $(TARGET_LIB)
+	@echo "Installing libBzip2 into $(PSPDIR)"
+	@mkdir -p $(PSPDIR)/include $(PSPDIR)/lib
+	@cp bzlib.h $(PSPDIR)/include
+	@cp libbzip2.a  $(PSPDIR)/lib
+	@echo "Done"
