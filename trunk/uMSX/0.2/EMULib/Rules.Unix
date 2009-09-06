@@ -1,5 +1,0 @@
-include ../../EMULib/Rules.gcc
-
-CFLAGS += -I/usr/X11R6/include
-DEFINES+= -DUNIX -DMITSHM
-LIBS   += -lX11 -lXext
