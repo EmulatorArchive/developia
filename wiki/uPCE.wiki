@@ -25,10 +25,10 @@ Ported and bassed on Hu-go and Bero xPce.
     * Sound support.
 
 ==Controls==
-* _Arrows_: basic movement, up, down, left, right.
-* _B/A_: Action buttons.
-* _Y/X_: Start and Select.
-* _Select_: open menu.
+-Arrows: basic movement, up, down, left, right.
+-B/A: Action buttons.
+-Y/X: Start and Select.
+-Select: open menu.
 
 ==Version History==
 ===0.1 Preview===
