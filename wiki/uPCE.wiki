@@ -2,6 +2,38 @@
 
 [http://www.developia.info/viewtopic.php?f=9&t=16 http://developia.googlecode.com/svn/wiki/uPCE/cap/uPCE1.jpg]
 
+
+uPCE wip 
+Intro
+uPCE is an PcEngine/TurboGrafx-16 emulator. The TurboGrafx-16 has an 8-bit CPU and
+a dual 16-bit GPU; furthermore, it is capable of displaying 482 colors at once out of 512.
+Ported and bassed on Hu-go and Bero xPce.
+
+Info
+
+    * Still a wip version.
+    * Doc is also beeing writted.
+    * Source still dirty and uncommented, after clean, will be on svn.
+
+Features
+
+    * Games supported con pce, zip, and iso format.
+    * Save & Load States with screenshot.
+    * Gamepad map configurable.
+    * Cheat support.
+    * Sound support.
+
+Version History
+0.1 Preview
+       - Initial public version.
+Installation
+
+   1. Unpack compressed file, and copy to SD card. 
+   2. Add an entry to dmenu.
+   3. Copy games to rom/ folder
+
+
+
 = Introduction =
 
 Add your content here.
