@@ -31,7 +31,7 @@ Ported and bassed on Hu-go and Bero xPce.
 -Select: open menu.
 
 ==Version History==
-===0.1 Preview===
+===0.1 NineDay Preview===
        - Initial public version.
 
 ==Installation==
