@@ -3,6 +3,32 @@
 [http://www.developia.info/viewtopic.php?f=9&t=16 http://developia.googlecode.com/svn/wiki/uPCE/cap/uPCE1.jpg]
 
 
+=Heading1=
+==Heading2==
+===Heading3===
+
+*bold*     _italic_
+`inline code`
+escape: `*`
+
+Indent lists 2 spaces:
+  * bullet item
+  # numbered list
+
+{{{
+verbatim code block
+}}}
+
+Horizontal rule
+----
+
+WikiWordLink
+[http://domain/page label]
+http://domain/page
+
+|| table || cells ||
+
+
 uPCE wip 
 Intro
 uPCE is an PcEngine/TurboGrafx-16 emulator. The TurboGrafx-16 has an 8-bit CPU and
