@@ -30,7 +30,7 @@ Ported and bassed on Hu-go and Bero xPce.
 
 ==Installation==
 
-   - Unpack compressed file, and copy to SD card. 
-   - Add an entry to dmenu.
-   - Copy games to "roms" folder.
-   - Put syscard.pce also in "roms" folder. We used syscard3.pce.
+   *- Unpack compressed file, and copy to SD card. 
+   *- Add an entry to dmenu.
+   *- Copy games to "roms" folder.
+   *- Put syscard.pce also in "roms" folder. We used syscard3.pce.
