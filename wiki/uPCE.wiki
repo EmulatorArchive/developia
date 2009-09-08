@@ -1,4 +1,6 @@
-#summary One-sentence summary of this page.
+#summary PcEngine Emulator.
+
+[http://www.developia.info/viewtopic.php?f=9&t=16 http://developia.googlecode.com/svn/wiki/uPCE/cap/uPCE1.jpg]
 
 = Introduction =
 
