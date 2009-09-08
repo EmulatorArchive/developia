@@ -40,3 +40,21 @@ Ported and bassed on Hu-go and Bero xPce.
    *- Add an entry to dmenu.
    *- Copy games to "roms" folder.
    *- Put syscard.pce also in "roms" folder. We used syscard3.pce.
+
+
+==Kudos==
+To original Hu-go emu programmer.
+Juarrox(developia.info Staff).
+
+
+==Contact==
+You can contact:.
+Visiting developia.info forum 
+Email Uguru inuguru@gmailcom
+grupodevelopia@gmail.com
+
+==Source code==
+Source code will be available at the Google project page.
+
+==Donations==
+PayPal account grupodevelopia@gmail
