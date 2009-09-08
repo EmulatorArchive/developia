@@ -24,6 +24,8 @@ Ported and bassed on Hu-go and Bero xPce.
     * Cheat support.
     * Sound support.
 
+==Controls==
+
 ==Version History==
 ===0.1 Preview===
        - Initial public version.
