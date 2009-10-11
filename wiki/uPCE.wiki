@@ -25,14 +25,29 @@ Ported and bassed on Hu-go and Bero xPce.
     * Sound support.
 
 ==Controls==
--Arrows: basic movement, up, down, left, right.
--B/A: Action buttons.
--Y/X: Start and Select.
--Select: open menu.
+*Arrows: basic movement, up, down, left, right.
+*B/A: Action buttons.
+*Y/X: Start and Select.
+*Select: open menu.
 
 ==Version History==
 ===0.1 NineDay Preview===
-       - Initial public version.
+       * Initial public version.
+
+===0.2 NineDay Preview===
+    *Solved Bug with syscard.pce search
+
+===0.3 Flavour Preview===
+    * Added volume control in Sound menu.
+    * Added scale video option.
+    * Added Autoframeskip and improved frameskip.
+    * Smaller binarie file.
+    * Funcionales las opciones de autocarga de mapeo de botones y cheat guardado..
+    * Solved bug: emu frezze when standing little time on Savestate menu.
+    * Solved bug: emu closes when playin for a long time.
+    * Added some info windows when loading, saving an found cheats.
+    * Changed joy map values, some games crashes when playing a lot.
+    * Solved bug with Overclock, now really works.
 
 ==Installation==
 
