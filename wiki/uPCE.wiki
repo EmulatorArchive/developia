@@ -1,8 +1,4 @@
-#summary PcEngine Emulator.
-
-
-
-=*uPCE*= 
+=uPCE=    
 ----
 ==Intro==
 uPCE is an PcEngine/TurboGrafx-16 emulator. The TurboGrafx-16 has an 8-bit CPU and
