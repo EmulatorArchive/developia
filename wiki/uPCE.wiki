@@ -48,7 +48,7 @@ Ported and bassed on Hu-go and Bero xPce.
     * Solved bug with Overclock, now really works.
 
 ==Installation==
-
+===Dingoo A320===
    *- Unpack compressed file, and copy to SD card. 
    *- Add an entry to dmenu.
    *- Copy games to "roms" folder.
