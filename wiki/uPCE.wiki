@@ -1,14 +1,15 @@
 #summary PcEngine Emulator.
 
-[http://www.developia.info/viewtopic.php?f=9&t=16 http://developia.googlecode.com/svn/wiki/uPCE/cap/uPCE1.jpg]
-----
+
 
 =*uPCE*= 
-
+----
 ==Intro==
 uPCE is an PcEngine/TurboGrafx-16 emulator. The TurboGrafx-16 has an 8-bit CPU and
 a dual 16-bit GPU; furthermore, it is capable of displaying 482 colors at once out of 512.
 Ported and bassed on Hu-go and Bero xPce.
+
+[http://www.developia.info/viewtopic.php?f=9&t=16 http://developia.googlecode.com/svn/wiki/uPCE/cap/uPCE1.jpg]
 
 ==Info==
 
