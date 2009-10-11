@@ -53,6 +53,16 @@ Ported and bassed on Hu-go and Bero xPce.
    *- Copy games to "roms" folder.
    *- To play Iso games, you must put syscard.pce also in "roms" folder. We used version 3 of this rom (syscard3.pce).
 
+Add dmenu.cfg sample:
+{{{
+    MenuItem uPCE
+    {
+            Icon = "res/upce.png"
+            Name = "  uPCE"
+            Executable = "./uPCE.dingoo"
+            WorkDir = "/usr/local/emus/uPCE"
+    }
+}}}
 
 ==Kudos==
 To original Hu-go emu programmer.
