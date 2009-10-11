@@ -40,7 +40,6 @@ Ported and bassed on Hu-go and Bero xPce.
     * Added scale video option.
     * Added Autoframeskip and improved frameskip.
     * Smaller binarie file.
-    * Funcionales las opciones de autocarga de mapeo de botones y cheat guardado..
     * Solved bug: emu frezze when standing little time on Savestate menu.
     * Solved bug: emu closes when playin for a long time.
     * Added some info windows when loading, saving an found cheats.
