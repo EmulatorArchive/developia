@@ -13,6 +13,8 @@ Ported and bassed on Hu-go and Bero xPce.
     * Doc is also beeing writted.
     * Source still dirty and uncommented, after clean, will be on svn.
 
+
+
 ==Features==
 
     * Games supported con pce, zip, and iso format.
@@ -21,19 +23,27 @@ Ported and bassed on Hu-go and Bero xPce.
     * Cheat support.
     * Sound support.
 
+
+
 ==Controls==
    * Arrows  basic movement, up, down, left, right.
    * B/A: Action buttons.
    * Y/X: Start and Select.
    * Select: open menu.
 
+
+
 ==Version History==
 
-===0.1 NineDay Preview===
-       * Initial public version.
-
-===0.2 NineDay Preview===
-    *Solved Bug with syscard.pce search
+===0.4 Luckyboy Preview===
+    - Changed some issue related to sound, removed some slowdowns.
+    - Added PcEngine Overclok.
+    - Improved a little speed on emulation.
+    - Added a letter selector in filemanager.
+    - Added some items on System config in menu.
+    - Cleaned some code (but need a little more cleaning code).
+    - Zip files with one rom, runs without filezipmanager.
+    - Added and changed fit and scale video modes.
 
 ===0.3 Flavour Preview===
     * Added volume control in Sound menu.
@@ -46,15 +56,13 @@ Ported and bassed on Hu-go and Bero xPce.
     * Changed joy map values, some games crashes when playing a lot.
     * Solved bug with Overclock, now really works.
 
-===0.4 Luckyboy Preview===
-    - Changed some issue related to sound, removed some slowdowns.
-    - Added PcEngine Overclok.
-    - Improved a little speed on emulation.
-    - Added a letter selector in filemanager.
-    - Added some items on System config in menu.
-    - Cleaned some code (but need a little more cleaning code).
-    - Zip files with one rom, runs without filezipmanager.
-    - Added and changed fit and scale video modes.
+===0.2 NineDay Preview===
+    *Solved Bug with syscard.pce search
+
+===0.1 NineDay Preview===
+       * Initial public version.
+
+
 
 ==Installation==
 ===Dingoo A320===
