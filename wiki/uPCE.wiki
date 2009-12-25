@@ -46,6 +46,16 @@ Ported and bassed on Hu-go and Bero xPce.
     * Changed joy map values, some games crashes when playing a lot.
     * Solved bug with Overclock, now really works.
 
+===0.4 Luckyboy Preview===
+    - Changed some issue related to sound, removed some slowdowns.
+    - Added PcEngine Overclok.
+    - Improved a little speed on emulation.
+    - Added a letter selector in filemanager.
+    - Added some items on System config in menu.
+    - Cleaned some code (but need a little more cleaning code).
+    - Zip files with one rom, runs without filezipmanager.
+    - Added and changed fit and scale video modes.
+
 ==Installation==
 ===Dingoo A320===
    *- Unpack compressed file, and copy to SD card. 
@@ -71,9 +81,10 @@ Juarrox(developia.info Staff).
 
 ==Contact==
 You can contact:.
-Visiting developia.info forum 
-Email Uguru inuguru@gmailcom
-grupodevelopia@gmail.com
+Visiting *[developia.info] forum
+
+Email:  Uguru: inuguru@gmailcom
+                        grupodevelopia@gmail.com
 
 ==Source code==
 Source code will be available at the Google project page.
