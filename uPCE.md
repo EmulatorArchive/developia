@@ -1,0 +1,102 @@
+
+---
+
+## Intro ##
+uPCE is an PcEngine/TurboGrafx-16 emulator. The TurboGrafx-16 has an 8-bit CPU and
+a dual 16-bit GPU; furthermore, it is capable of displaying 482 colors at once out of 512.
+Ported and bassed on Hu-go and Bero xPce.
+
+[![](http://developia.googlecode.com/svn/wiki/uPCE/cap/uPCE1.jpg)](http://www.developia.info/viewtopic.php?f=9&t=16)
+
+## Info ##
+
+  * Still a wip version.
+  * Doc is also beeing writted.
+  * Source still dirty and uncommented, after clean, will be on svn.
+
+
+
+## Features ##
+
+  * Games supported con pce, zip, and iso format.
+  * Save & Load States with screenshot.
+  * Gamepad map configurable.
+  * Cheat support.
+  * Sound support.
+
+
+
+## Controls ##
+  * Arrows  basic movement, up, down, left, right.
+  * B/A: Action buttons.
+  * Y/X: Start and Select.
+  * Select: open menu.
+
+
+
+## Version History ##
+
+### 0.4 Luckyboy Preview ###
+> - Changed some issue related to sound, removed some slowdowns.
+> - Added PcEngine Overclok.
+> - Improved a little speed on emulation.
+> - Added a letter selector in filemanager.
+> - Added some items on System config in menu.
+> - Cleaned some code (but need a little more cleaning code).
+> - Zip files with one rom, runs without filezipmanager.
+> - Added and changed fit and scale video modes.
+
+### 0.3 Flavour Preview ###
+  * Added volume control in Sound menu.
+  * Added scale video option.
+  * Added Autoframeskip and improved frameskip.
+  * Smaller binarie file.
+  * Solved bug: emu frezze when standing little time on Savestate menu.
+  * Solved bug: emu closes when playin for a long time.
+  * Added some info windows when loading, saving an found cheats.
+  * Changed joy map values, some games crashes when playing a lot.
+  * Solved bug with Overclock, now really works.
+
+### 0.2 NineDay Preview ###
+  * olved Bug with syscard.pce search
+
+### 0.1 NineDay Preview ###
+  * Initial public version.
+
+
+
+## Installation ##
+### Dingoo A320 ###
+  * Unpack compressed file, and copy to SD card.
+  * Add an entry to dmenu.
+  * Copy games to "roms" folder.
+  * To play Iso games, you must put syscard.pce also in "roms" folder. We used version 3 of this rom (syscard3.pce).
+
+Add dmenu.cfg sample:
+```
+    MenuItem uPCE
+    {
+            Icon = "res/upce.png"
+            Name = "  uPCE"
+            Executable = "./uPCE.dingoo"
+            WorkDir = "/usr/local/emus/uPCE"
+    }
+```
+
+## Kudos ##
+To original Hu-go emu programmer.
+Juarrox(developia.info Staff).
+
+
+## Contact ##
+You can contact:.
+Visiting **[developia.info] forum**
+
+Email:  Uguru: inuguru@gmailcom
+> grupodevelopia@gmail.com
+
+## Source code ##
+Source code will be available at the Google project page.
+
+## Donations ##
+PayPal account grupodevelopia@gmail
